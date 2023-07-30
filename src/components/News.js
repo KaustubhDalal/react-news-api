@@ -19,7 +19,7 @@ export class News extends Component {
       articles: parseData.articles,
     });
   }
-  render() {
+  render() { 
     return (
       <div className="container my-3">
         <h2>News-Vantage Top Headlines</h2>
